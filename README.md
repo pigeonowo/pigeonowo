@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pigeonowo
-- 👀 I’m interested in embedded programming
-- 🌱 I’m currently learning python and the basics of coding
-- 💞️ I’m looking to collaborate on random stuff like discord bots
+- 👀 I’m interested in maps
+- 🌱 I’m currently learning python and java
+- 💞️ I’m looking to collaborate on small games or applications with maps
 - 📫 reach me on Discord Pigeon OwO#4691
 
 <!---
