@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pigeonowo
 - 👀 I’m interested in maps
 - 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on small games or applications with maps
+- 💞️ I’m looking to collaborate on backend applications for anything
 - 📫 reach me on Discord Pigeon OwO#4691
 
 <!---
