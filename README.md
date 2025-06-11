@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pigeonowo
 - 👀 I’m interested in maps
-- 🌱 I’m currently learning python and java
+- 🌱 I’m currently learning rust and zig
 - 💞️ I’m looking to collaborate on backend applications for anything
 - 📫 reach me on Discord Pigeon OwO#4691
 
