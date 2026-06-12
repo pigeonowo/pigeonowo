@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pigeonowo
+- 👋 Hi, I’m QuietPigeon
 - 👀 I’m interested in backend applications and learning about scaling them
 - 📫 reach me on Discord Pigeon OwO#4691
 
