@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pigeonowo
-- 👀 I’m interested in maps
-- 🌱 I’m currently learning rust and zig
-- 💞️ I’m looking to collaborate on backend applications for anything
+- 👀 I’m interested in backend applications and learning about scaling them
 - 📫 reach me on Discord Pigeon OwO#4691
 
 <!---
